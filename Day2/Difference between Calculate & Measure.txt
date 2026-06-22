@@ -1,0 +1,49 @@
+
+📊 Calculated Column vs Measure — A Core DAX Concept in Power BI
+
+One of the most important technical concepts in Power BI is understanding the difference between Calculated Column and Measure.
+
+🔹 Calculated Column
+Computed during data load
+Stored physically in the model
+Works on Row Context
+Increases model size
+
+📌 Use when:
+Row-level calculations are needed
+Creating relationship keys
+Categorization logic
+
+Example:
+Total Price = Sales[Quantity] * Sales[Unit Price]
+
+🔹 Measure
+Calculated at query time
+Not stored in memory
+Depends on Filter Context
+Dynamic based on slicers & visuals
+
+📌 Use when:
+Aggregations (SUM, COUNT, AVERAGE)
+KPIs
+Dynamic calculations
+Performance optimization
+Example:
+
+Total Sales = SUM(Sales[Total Price])
+
+💡 Technical Insight:
+Calculated Column = Static (Row Context)
+Measure = Dynamic (Filter Context)
+
+In real-world projects, prioritizing measures improves model performance and scalability.
+
+🚀 Currently building advanced Power BI dashboards and strengthening my DAX skills.
+
+📌 Open to Data Analyst / Power BI Developer opportunities.
+
+🔗 GitHub Portfolio: https://lnkd.in/dpzii7jN
+
+I’d appreciate feedback from fellow data professionals.
+
+hashtag#PowerBI hashtag#DAX hashtag#DataAnalytics hashtag#PowerBIDeveloper hashtag#OpenToWork hashtag#LearningJourney hashtag#DataAnalyst hashtag#Accenture hashtag#Genpact #hashtag#Infosys hashtag#Deloitte
