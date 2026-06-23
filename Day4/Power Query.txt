@@ -1,0 +1,52 @@
+
+I used to think building dashboards was the hardest part of Power BI.
+
+Beautiful charts.
+Clean KPIs.
+Interactive visuals.
+
+But I was wrong.
+
+The real challenge?
+
+Messy data.
+
+Duplicate rows.
+Wrong data types.
+Blank values.
+Inconsistent formats.
+
+That’s when I discovered Power Query.
+
+And everything changed.
+
+Instead of cleaning Excel files manually every month,
+I started creating transformation steps:
+
+✔ Remove duplicates
+✔ Change data types
+✔ Split & merge columns
+✔ Handle missing values
+✔ Create conditional columns
+
+And the best part?
+
+Next month, I just clicked Refresh.
+
+Everything updated automatically.
+
+That’s when I realized:
+
+Good dashboards don’t start with visuals.
+They start with clean data.
+
+Power Query isn’t just a feature.
+It’s the foundation of reliable analytics.
+
+Now, whenever I build a report, I spend more time in Power Query than in the visuals pane — because strong data preparation = strong insights.
+
+Still learning. Still improving. 🚀
+
+💬 What’s the most powerful transformation you use in Power Query?
+
+#PowerBI #PowerQuery #DataAnalytics #LearningJourney #BusinessIntelligence
