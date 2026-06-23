@@ -1,0 +1,68 @@
+
+When I first heard about Power BI,
+I thought it was just a reporting tool.
+
+Open data.
+Create charts.
+Done.
+
+But when I started learning deeply, I realized…
+
+Power BI is not just one tool.
+It’s an ecosystem.
+
+Here’s how I now see it:
+
+🖥 Power BI Desktop
+This is where everything begins.
+
+I connect data.
+Clean it using Power Query.
+Build relationships.
+Write DAX.
+Design reports.
+
+This is where the real development happens.
+
+☁ Power BI Service
+Once the report is ready, it doesn’t stop there.
+
+I publish it to the cloud.
+Create dashboards.
+Schedule refresh.
+Share with stakeholders.
+
+This is where collaboration happens.
+
+📱 Power BI Mobile
+And the best part?
+
+Decision-makers don’t need a laptop.
+
+They can track KPIs, monitor performance, and view dashboards directly from their phone.
+
+Anytime. Anywhere.
+
+That’s when I understood:
+
+Desktop → Build
+Service → Share
+Mobile → Monitor
+
+Power BI isn’t just about visuals.
+It’s about delivering insights from development to decision-making.
+
+Currently diving deeper into Power BI architecture and building practical dashboards on my journey to becoming a Data Analyst / Power BI Developer 🚀
+
+🔎 Open to opportunities in Data Analyst / Power BI roles.
+💻 Explore my projects and practice work here:
+👉 https://lnkd.in/dpzii7jN
+
+I’m open to feedback, collaboration, and learning.
+
+
+💬 Which Power BI component do you use the most?
+
+
+
+#PowerBI #DataAnalytics #BusinessIntelligence #LearningJourney #PowerBIDeveloper #OpenToWork #DataAnalyst #Dashboard #Infosys #Accenture Deloitte #TataConsultancyServices (TCS) #Genpact
