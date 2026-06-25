@@ -1,0 +1,35 @@
+
+📊 Understanding Types of Filters in Power BI
+
+Filters are essential in Power BI because they help users focus on specific data and gain meaningful insights.
+
+Power BI provides three main types of filters:
+
+🔹 Visual-Level Filters
+Applied to a single visual and affect only that chart or table.
+
+🔹 Page-Level Filters
+Applied to all visuals on a specific report page.
+
+🔹 Report-Level Filters
+Applied across the entire report and affect all pages.
+
+💡 Quick Tip:
+Visual-Level → One visual
+Page-Level → One page
+Report-Level → Entire report
+
+Understanding how these filters work helps create more interactive and user-friendly dashboards.
+
+🚀 Currently improving my Power BI skills by learning DAX, data modeling, and advanced reporting techniques.
+
+📌 Open to Data Analyst / Power BI opportunities.
+
+#PowerBI #DataAnalytics #BusinessIntelligence #PowerBIDeveloper #LearningInPublic #Accenture #Genpact #Deloitte #Capgemini #Cognizant
+
+
+📂 You can explore my Power BI projects here:
+🔗 GitHub Portfolio: https://github.com/repos
+
+I’m currently open to Data Analyst / Power BI opportunities and always happy to connect with data professionals 🚀
+
