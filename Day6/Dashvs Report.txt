@@ -1,0 +1,51 @@
+When I first started learning Power BI, I thought Dashboard and Report were the same thing.
+
+Both had charts.
+Both showed data.
+Both looked interactive.
+
+But when I started building real reports, I realized something important.
+
+They serve completely different purposes.
+
+📊 Power BI Report
+
+This is where deep analysis happens.
+
+A report usually contains:
+✔ Multiple pages
+✔ Detailed visuals
+✔ Filters and slicers
+✔ Drill-down analysis
+
+It helps analysts explore data and answer complex business questions.
+
+Think of it as the full story behind the data.
+
+📈 Power BI Dashboard
+
+A dashboard is different.
+
+It’s designed for quick insights and monitoring.
+
+✔ Single page view
+✔ Key metrics (KPIs)
+✔ Pinned visuals from reports
+✔ High-level business overview
+
+Executives often use dashboards to quickly understand performance.
+
+Think of it as the summary of the story.
+
+💡 Simple way to remember
+
+Report → Deep analysis
+Dashboard → Quick overview
+
+Both together help organizations turn raw data into better decisions.
+
+🚀 Currently strengthening my Power BI skills by learning data modeling, DAX, and dashboard design on my journey to becoming a Data Analyst / Power BI Developer.
+
+💬 When working with data, do you prefer dashboards or detailed reports?
+
+#PowerBI #DataAnalytics #BusinessIntelligence #PowerBIDeveloper #LearningInPublic
