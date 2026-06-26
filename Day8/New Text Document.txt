@@ -1,0 +1,56 @@
+📊 SUM vs SUMX in Power BI – One of the Most Important DAX Concepts
+
+When I first started learning DAX, I thought SUM and SUMX did the same thing.
+
+Both return totals.
+
+Both aggregate data.
+
+So why do we need two functions?
+
+The answer lies in *how* they calculate the result.
+
+🔹 **SUM()**
+Used when you want to add up the values of an existing column.
+
+Example:
+
+Total Sales = SUM(Sales[Sales Amount])
+
+✅ Simple
+✅ Fast
+✅ Best for pre-calculated columns
+
+---
+
+🔹 **SUMX()**
+An iterator function that evaluates an expression row by row and then returns the total.
+
+Example:
+
+Total Sales =
+SUMX(
+Sales,
+Sales[Quantity] * Sales[Price]
+)
+
+✅ Performs row-by-row calculations
+✅ Useful when values need to be calculated before aggregation
+✅ Great for complex business logic
+
+---
+
+💡 Simple Rule:
+
+Use **SUM** when the values already exist in a column.
+
+Use **SUMX** when you need to calculate values on the fly before summing them.
+
+Understanding the difference between these two functions is essential for writing efficient and scalable DAX measures.
+
+🚀 Currently exploring advanced DAX concepts and building Power BI dashboards to strengthen my Data Analytics skills.
+
+💬 Which DAX function did you find most challenging when you started learning Power BI?
+
+#PowerBI #DAX #DataAnalytics #PowerBIDeveloper #DataModeling #BusinessIntelligence
+
