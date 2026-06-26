@@ -1,0 +1,92 @@
+
+📊 Star Schema in Power BI – A Key Concept in Data Modeling
+
+When building efficient Power BI reports, data modeling plays a critical role.
+One of the most widely used modeling techniques in Business Intelligence is the Star Schema.
+
+🔹 What is a Star Schema?
+
+A Star Schema is a data modeling structure where a central fact table is connected to multiple dimension tables.
+
+The structure resembles a star, where the fact table is at the center and dimension tables surround it.
+
+🔹 Components of Star Schema
+
+1️⃣ Fact Table
+
+The fact table contains quantitative business data.
+
+Examples:
+
+Sales Amount
+
+Quantity Sold
+
+Profit
+
+Revenue
+
+It usually contains foreign keys that connect to dimension tables.
+
+Example columns:
+
+Sales_ID
+Product_ID
+Customer_ID
+Date_ID
+Sales_Amount
+Quantity
+
+2️⃣ Dimension Tables
+
+Dimension tables contain descriptive attributes that provide context to the facts.
+
+Examples:
+
+Product details
+
+Customer information
+
+Date attributes
+
+Region or location
+
+Example columns:
+
+Product_ID
+Product_Name
+Category
+Brand
+🔹 How Relationships Work
+
+Fact tables are connected to dimension tables using one-to-many relationships.
+
+Example:
+
+Product (Dimension)  →  Sales (Fact)
+Customer (Dimension) →  Sales (Fact)
+Date (Dimension)     →  Sales (Fact)
+
+Dimension → One side
+Fact table → Many side
+
+🔹 Why Star Schema is Important in Power BI
+
+✔ Improves query performance
+✔ Simplifies data modeling
+✔ Makes DAX calculations easier
+✔ Improves report scalability
+✔ Enhances data clarity
+
+💡 Simple Way to Remember
+
+Fact Table → Numeric business metrics
+Dimension Table → Descriptive attributes
+
+Together they create a structure that supports efficient analytics and reporting.
+
+🚀 Currently strengthening my Power BI skills by learning data modeling, DAX, and dashboard design.
+
+💬 Do you prefer using Star Schema or Snowflake Schema in your projects?
+
+#PowerBI #DataModeling #StarSchema #DataAnalytics #BusinessIntelligence
