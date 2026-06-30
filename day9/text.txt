@@ -1,0 +1,14 @@
+📊 Row Context vs Filter Context — One of the most important concepts in DAX.
+
+Understanding these two contexts helps you write better measures, troubleshoot calculations, and build more efficient Power BI reports.
+
+💡 Simple way to remember:
+
+🔹 Row Context → Works on the current row
+🔹 Filter Context → Works on filtered data
+
+Mastering this concept is a game-changer for anyone learning DAX and Power BI.
+
+🚀 Currently exploring advanced DAX concepts and strengthening my Power BI skills.
+
+#PowerBI #DAX #DataAnalytics #DataModeling #PowerBIDeveloper
