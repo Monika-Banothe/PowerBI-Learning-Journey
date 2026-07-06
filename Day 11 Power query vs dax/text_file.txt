@@ -1,0 +1,18 @@
+📊 **Power Query vs DAX – Know the Difference**
+
+Many beginners think Power Query and DAX do the same job—but they don't.
+
+🔹 **Power Query** prepares and transforms data before it is loaded into the model.
+
+🔹 **DAX** performs calculations and creates business logic after the data is loaded.
+
+💡 Simple way to remember:
+
+**Power Query = Prepare your data**
+**DAX = Analyze your data**
+
+Both are essential skills for building efficient and insightful Power BI reports.
+
+🚀 Continuously learning and sharing Power BI concepts on my Data Analytics journey.
+
+#PowerBI #PowerQuery #DAX #DataAnalytics #BusinessIntelligence #PowerBIDeveloper #VenAnalytics #Accenture #TCS #Capgemini
