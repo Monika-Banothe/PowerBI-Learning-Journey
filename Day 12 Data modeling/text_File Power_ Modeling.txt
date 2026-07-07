@@ -1,0 +1,23 @@
+📊 **Data Modeling Basics in Power BI**
+
+A great dashboard doesn't start with visuals—it starts with a **well-designed data model**.
+
+Data Modeling is the process of organizing data into tables and creating relationships that make reports faster, more accurate, and easier to maintain.
+
+Here are a few best practices I follow:
+
+✅ Use a **Star Schema** whenever possible
+✅ Create meaningful relationships
+✅ Choose the correct data types
+✅ Keep the model simple and scalable
+✅ Validate relationships before building reports
+
+💡 Remember:
+
+**Good Data + Good Data Model = Great Insights**
+
+I'm continuously learning Power BI, DAX, and Data Modeling to build better dashboards and improve my Data Analytics skills.
+
+💬 What's one data modeling best practice you always follow?
+
+#PowerBI #DataModeling #DataAnalytics #BusinessIntelligence #PowerBIDeveloper #PersistentSystems #ZensarTechnologies #Tech Prescient #JoshSoftware #LogicMonitorIndia 
