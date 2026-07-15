@@ -1,0 +1,32 @@
+📊 Power Query Transformations I Use Most | Power BI
+
+One of the biggest lessons I've learned in Power BI is this:
+
+A great dashboard starts with clean data.
+
+That's why I spend a lot of time in Power Query before building visuals or writing DAX measures.
+
+Here are some of the transformations I use most frequently:
+
+✅ Remove unnecessary columns
+✅ Change data types
+✅ Filter rows
+✅ Split columns
+✅ Merge queries
+✅ Append queries
+✅ Remove duplicates
+✅ Fill missing values
+✅ Pivot / Unpivot columns
+✅ Create custom columns
+
+💡 Key Takeaway:
+
+The more time you invest in preparing your data, the easier it becomes to build accurate, efficient, and scalable Power BI reports.
+
+Power Query is where data preparation happens, while DAX is where business calculations begin.
+
+🚀 I'm continuously exploring Power BI and sharing my learning journey with the community.
+
+💬 Which Power Query transformation do you use most often in your projects?
+
+#PowerBI #PowerQuery #DataTransformation #DataCleaning #DataAnalytics #BusinessIntelligence #PowerBIDeveloper #DataAnalyst #LearningInPublic
