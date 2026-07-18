@@ -1,0 +1,30 @@
+📊 Data Cleaning Checklist Before Building a Dashboard
+
+One lesson I've learned while working with data is:
+
+A dashboard is only as good as the data behind it.
+
+Before creating visuals or writing DAX measures, I always spend time cleaning and validating the dataset.
+
+Here's my data cleaning checklist:
+
+✅ Verify data sources
+✅ Remove unnecessary columns
+✅ Check and correct data types
+✅ Filter irrelevant records
+✅ Remove duplicate values
+✅ Handle missing values
+✅ Standardize text formats
+✅ Validate date fields
+✅ Check numerical values for errors
+✅ Perform a final data quality review
+
+💡 Key Takeaway:
+
+Data cleaning may not be the most exciting part of analytics, but it's one of the most important. Investing time in preparing your data leads to more accurate reports, better performance, and reliable business insights.
+
+🚀 I'm continuously improving my Power BI and data preparation skills by following best practices and sharing what I learn.
+
+💬 What is the first thing you check when you receive a new dataset?
+
+#PowerBI #DataCleaning #PowerQuery #DataAnalytics #DataPreparation #BusinessIntelligence #DashboardDesign #PowerBIDeveloper #LearningInPublic
