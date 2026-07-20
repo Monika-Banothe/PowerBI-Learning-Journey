@@ -1,0 +1,28 @@
+📊 Power BI Interview Questions (Part 1)
+
+Preparing for a Power BI interview isn't just about memorizing answers—it's about understanding the concepts behind them.
+
+As part of my learning journey, I've compiled some of the most commonly asked Power BI interview questions for Data Analyst and Power BI Developer roles.
+
+In this infographic, you'll find questions on:
+
+✅ What is Power BI?
+✅ Components of Power BI
+✅ Dashboard vs Report
+✅ Power Query
+✅ DAX
+✅ Measure vs Calculated Column
+✅ Relationships in Power BI
+✅ Import Mode vs DirectQuery
+✅ Row Context vs Filter Context
+✅ Performance Optimization Tips
+
+💡 Key Takeaway:
+
+Strong fundamentals are the key to succeeding in Power BI interviews. Focus on understanding the concepts, practice with real projects, and explain your answers with confidence.
+
+🚀 I'm sharing Power BI concepts and interview preparation tips as part of my continuous learning journey.
+
+💬 Which Power BI interview question do you find the most challenging?
+
+#PowerBI #PowerBIInterview #DataAnalyst #PowerBIDeveloper #DAX #PowerQuery #BusinessIntelligence #DataAnalytics #LearningInPublic #CareerGrowth
