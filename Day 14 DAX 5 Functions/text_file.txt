@@ -1,0 +1,27 @@
+📊 Top 5 DAX Functions Every Beginner Should Learn | Power BI
+
+DAX is the heart of Power BI. Understanding the right functions can help you create dynamic measures, solve business problems, and build impactful dashboards.
+
+In this carousel, I've covered 5 essential DAX functions that every beginner should know:
+
+✅ CALCULATE() – Modify filter context and create powerful calculations.
+✅ SUMX() – Perform row-by-row calculations before aggregation.
+✅ FILTER() – Return rows based on custom conditions.
+✅ ALL() – Remove filters for comparisons and percentage calculations.
+✅ SUM() – Aggregate values from a single column.
+
+📌 Bonus Slides:
+
+Quick comparison of all functions
+Real-world use cases
+Best practices for writing efficient DAX
+Key takeaways to strengthen your understanding
+
+💡 Key Takeaway:
+Learning these five functions is a strong foundation for mastering DAX and building professional Power BI reports.
+
+👉 Swipe through the carousel and save it for future reference.
+
+💬 Which DAX function do you use the most in your Power BI projects?
+
+#PowerBI #DAX #DataAnalytics #BusinessIntelligence #PowerBIDeveloper #DataAnalyst #LearningInPublic #DashboardDesign #MicrosoftPowerBI
