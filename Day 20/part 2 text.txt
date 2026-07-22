@@ -1,0 +1,28 @@
+📊 Power BI Interview Questions (Part 2)
+
+Power BI interviews often go beyond basic concepts. Interviewers want to know whether you understand how to solve real business problems using Power BI.
+
+In Part 2, I've covered some commonly asked interview questions that every aspiring Data Analyst and Power BI Developer should prepare for.
+
+📌 Topics covered:
+
+✅ KPI Visuals
+✅ Slicers vs Filters
+✅ ALL() vs REMOVEFILTERS()
+✅ SUM() vs SUMX()
+✅ RELATED() Function
+✅ Creating a Date Table
+✅ Data Modeling in Power BI
+✅ Aggregations
+✅ Row-Level Security (RLS)
+✅ Publishing Reports to Power BI Service
+
+💡 Key Takeaway:
+
+Don't just memorize interview answers. Focus on understanding the concepts, practice them in real projects, and explain your approach with confidence. That's what interviewers value most.
+
+🚀 I'm continuing to learn Power BI by building projects, practicing DAX, and sharing my knowledge with the community.
+
+💬 Which Power BI topic would you like me to cover next?
+
+#PowerBI #PowerBIInterview #DataAnalyst #PowerBIDeveloper #DAX #PowerQuery #RLS #BusinessIntelligence #DataAnalytics #LearningInPublic
